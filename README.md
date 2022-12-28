@@ -13,7 +13,7 @@
 - 📫 How to reach me **nikhilnandakumar373@gmail.com**
 <p><img align="right" alt="coding" width="400" src="https://github.com/Nikhil-ndr/Nikhil-ndr/blob/main/ninjala-jane.gif"></p>
 <br>
-<h3 align="left">Connect with me:</h3>
+<p><h3 align="left">Connect with me:</h3></p>
 <p align="left">
 <a href="https://linkedin.com/in/nikhil n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil n" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/nikhil n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nikhil n" height="30" width="40" /></a>
