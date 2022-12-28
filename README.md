@@ -1,7 +1,7 @@
-![logo](https://github.com/Nikhil-ndr/Nikhil-ndr/blob/main/banner1.png.jpg)
+![logo widht="500"](https://github.com/Nikhil-ndr/Nikhil-ndr/blob/main/banner1.png.jpg)
 <h1 align="center">Hi 👋, I'm Nikhil N</h1>
 <h3 align="center">A passionate Engineering student from India</h3>
-<img align="right" alt="coding" width="300" src="https://github.com/Nikhil-ndr/Nikhil-ndr/blob/main/ninjala-jane.gif">
+<img align="right" alt="coding" width="150" src="https://github.com/Nikhil-ndr/Nikhil-ndr/blob/main/ninjala-jane.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-ndr&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-ndr" /> </p>
 
 - 🔭 I’m currently Studying Electronics and communication engineering at college of engineering Chengannur
