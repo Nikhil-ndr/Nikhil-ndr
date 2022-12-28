@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Nikhil-ndr/Nikhil-ndr/blob/main/banner1.png.jpg)
 <h1 align="center">Hi 👋, I'm Nikhil N</h1>
 <h3 align="center">A passionate Engineering student from India</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/Nikhil-ndr/Nikhil-ndr/blob/main/ninjala-jane.gif">
