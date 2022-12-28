@@ -1,15 +1,17 @@
 
-
 <h1 align="center">Hi 👋, I'm Nikhil N</h1>
 <h3 align="center">A passionate Engineering student from India</h3>
-<img align="right" alt="coding" width="450" src="![image](https://user-images.githubusercontent.com/103847785/209844597-cb86eb91-f535-43e5-86ad-bb1a7fdaede3.png)
-">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-ndr&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-ndr" /> </p>
 
+- 🔭 I’m currently Studying Electronics and communication engineering at college of engineering Chengannur
+
+- 🌱 I’m currently learning **python**
+
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/nikhil-n-693b45227](https://www.linkedin.com/in/nikhil-n-693b45227)
+
 - 📫 How to reach me **nikhilnandakumar373@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nikhil n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil n" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/nikhil n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nikhil n" height="30" width="40" /></a>
@@ -25,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhil-ndr&show_icons=true&locale=en" alt="nikhil-ndr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil-ndr&" alt="nikhil-ndr" /></p>
+
+
